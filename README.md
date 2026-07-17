@@ -69,12 +69,6 @@ same instinct, pointed in different directions.
 
 ---
 
-### 📉 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ISHIKAJAISINGH&show_icons=true&theme=default&hide_title=true" alt="GitHub Stats" />
-</p>
-
 ---
 
 <p align="center"><i>Still solving for x — through food, family, and figuring myself out by trying something different every time.</i></p>
